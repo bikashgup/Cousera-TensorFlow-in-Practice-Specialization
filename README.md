@@ -6,9 +6,9 @@ This is the specialization course for learning Teansorflow and understand how to
 
 ### WEEK1
 
-* [Exercise 1 (Housing Prices)](.Introduction-to-Tensorflow-for-AI-ML-D/Week1utf-8''Exercise_1_House_Prices_Questio.ipynb)
+* [Exercise 1 (Housing Prices)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week1/Exercise_1_House_Prices_Question.ipynb)
 
-*  [Upgraded Tool: Exercise 1 (HousingPrices)](.Introduction-to-Tensorflow-for-AI-ML-D/Week1Exercise_1_House_Prices_Question.ipynb)
+* [Upgraded Tool: Exercise 1 (HousingPrices)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week1/utf-8''Exercise_1_House_Prices_Question.ipynb)
   
 ## Convolutional Neural Networks in TensorFlow
 
