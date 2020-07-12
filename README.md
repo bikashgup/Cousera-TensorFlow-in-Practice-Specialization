@@ -6,9 +6,29 @@ This is the specialization course for learning Teansorflow and understand how to
 
 ### WEEK1
 
-* [Exercise 1 (Housing Prices)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week1/Exercise_1_House_Prices_Question.ipynb)
+* [Exercise 1 (Housing Prices)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week1/utf-8''Exercise_1_House_Prices_Question.ipynb)
 
-* [Upgraded Tool: Exercise 1 (HousingPrices)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week1/utf-8''Exercise_1_House_Prices_Question.ipynb)
+* [Upgraded Tool: Exercise 1 (HousingPrices)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week1/Exercise_1_House_Prices_Question.ipynb)
+
+### WEEK2
+
+* [Exercise 2 (Handwriting Recognition)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week2/utf-8''Exercise2-Question.ipynb)
+
+* [Upgraded Tool: Exercise 2 (Handwriting Recognition)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week2/Exercise2_Question.ipynb)
+
+
+### WEEK3
+
+* [Exercise 3 (Improve MNIST with convolutions)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week3/utf-8''Exercise-3-Question.ipynb)
+
+* [Upgraded Tool: Exercise 3 (Improve MNIST with convolutions)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week3/Exercise_3_Question.ipynb)
+
+
+### WEEK4
+
+* [Exercise 4 (Handling complex images)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week4/utf-8''Exercise4-Question.ipynb)
+
+* [Upgraded Tool: Exercise 4 (Handling complex images)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week4/Exercise_4_Question.ipynb)
   
 ## Convolutional Neural Networks in TensorFlow
 
