@@ -19,7 +19,7 @@ This is the specialization course for learning Teansorflow and understand how to
 
 ### WEEK3
 
-* [Exercise 3 (Improve MNIST with convolutions)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week3/utf-8''Exercise-3-Question.ipynb)
+* [Exercise 3 (Improve MNIST with convolutions)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week3/utf-8''Excercise-3-Question.ipynb)
 
 * [Upgraded Tool: Exercise 3 (Improve MNIST with convolutions)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week3/Exercise_3_Question.ipynb)
 
