@@ -29,6 +29,8 @@ This is the specialization course for learning Teansorflow and understand how to
 * [Exercise 4 (Handling complex images)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week4/utf-8''Exercise4-Question.ipynb)
 
 * [Upgraded Tool: Exercise 4 (Handling complex images)](./Introduction-to-Tensorflow-for-AI-ML-DL/Week4/Exercise_4_Question.ipynb)
+
+### [CERTIFICATE LINK](https://www.coursera.org/account/accomplishments/certificate/YVRB4WBWACP5)
   
 ## Convolutional Neural Networks in TensorFlow
 
