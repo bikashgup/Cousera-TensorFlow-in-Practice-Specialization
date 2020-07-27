@@ -36,7 +36,7 @@ This is the specialization course for learning Teansorflow and understand how to
 
 ### Week1: Exploring a Larger Dataset
 
-1. Programming Assignment: [Exercise 1 - Cats vs. Dogs](./)
+1. [Exercise 1 - Cats vs. Dogs](./Convolutional-Neural-Networks-in-TensorFlow/Week1/utf-8''Exercise_1_Cats_vs_Dogs_Question-FINAL.ipynb)
 
 ### Week2: Augmentation(A technique to avoid overfitting)
 ### Week3: Transfer Learning
